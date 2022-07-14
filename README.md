@@ -1,4 +1,6 @@
 ## Learning Progress Tracker
+
+- [X] **1/4 stage of implementation**
 ___
 - [ ] **About:**
 
